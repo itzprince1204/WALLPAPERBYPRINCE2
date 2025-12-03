@@ -1,0 +1,4 @@
+<manifest package="com.example.wallpaper_by_prince" xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application android:label="WALLPAPER BY PRINCE" android:icon="@mipmap/ic_launcher"></application>
+</manifest>
